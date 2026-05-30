@@ -1,6 +1,8 @@
 ---
 aliases:
   - Making Money With Apps
+  - Monetize App
+  - App Monetization
 tags:
   - Growing
 references:
