@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": true,
+  "vimMode": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Indexes",
+  "attachmentFolderPath": "Source Material",
+  "openBehavior": ""
+}
