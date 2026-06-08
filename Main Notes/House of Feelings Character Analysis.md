@@ -42,7 +42,7 @@ references:
 
 ## Season 2
 
-### Prosper
+### Prosper ([[Boyfriend Maxxing]])
 - Initially, he has good chemistry with both Nara and Sara, displaying his affectionate and caring side, while being flirtatious. Ultimately what gives him trouble throughout the show is his cringey and premeditated flirting attempts that feel fabricated. Later he also struggles with his avoidant nature, recognizing some of his toxic tendencies hoping to grow as an individual.
 - Later in the show, he accepts his shortcomings, hoping to continue using it as an opportunity to further learn about himself and grow from his mistakes.
 - His use of eye contact, consideration (like putting his jacket around Nara and hugging her when she says she feels cold), and flirty behavior creates tension, building anticipation and indirectly showing his interest.

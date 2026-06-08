@@ -5,7 +5,7 @@ tags:
   - Seed
 references:
 ---
-[[Relationships]]
+[[Relationships]], [[Values]]
 2026-06-01 09:44
 
 There are a lot of little things we can do that come together to build a cohesive character as a good boyfriend. Understanding the underlying principles of what makes the difference between a shitty and great boyfriend will help you consistently do the right thing almost unconsciously.
