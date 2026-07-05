@@ -24,7 +24,10 @@ references:
 	- Does it talk about a part of the text irrelevant to the question?
 - Correct answer choices shouldn't contain irrelevant components to the passage or question
 - Avoid answer choices with extreme vocabulary unless there is a direct connection to what the passage says, these words will often make the choice incorrect
-- For the questions using the notes to support the relevant claim, you can skip reading the notes entirely and just use the answer choices because they will always use information found in the notes.
+- For the questions using the notes to support the relevant claim, you can skip reading the notes entirely and just use the answer choices because they will always use information found in the notes
+- Questions asking about the structure of text are always looking for shifts in the passage
+- When a question asks, "what finding, if true, would support the claim," you can generally skip to the end where the claim is, identifying the answer choice that supports it
+- For transition questions, I think it is most logical to highlight the point before the transition and the point after the transition, focusing on how their messages relate (are they contrasting or related) 
 
 #### Vocab
 - Since it is impossible to know every difficult word the SAT may throw at you, the way many questions are designed is to use your understanding of prefixes, suffixes, and roots to deduce the correct answer
