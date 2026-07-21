@@ -50,3 +50,5 @@ references:
 | Purpose                                     | Command                                                              |
 | ------------------------------------------- | -------------------------------------------------------------------- |
 | Launch terminal in the center of the screen | `hyprctl dispatch exec "[float; centerwindow; size 1000 650] kitty"` |
+| Update without confirmation                 | `yay -Syu --noconfirm --answerdiff None --answerclean None`          |
+|                                             |                                                                      |
