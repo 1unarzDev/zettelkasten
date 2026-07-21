@@ -41,6 +41,7 @@ references:
 - Eliminate information between commas and em dashes to speed up your reading process
 - Modifier questions you can flip the blank after the comma to the front of the sentence and see if it makes sense still
 	- The thing at the beginning of the blank should be what the action is happening to, so if the question is "Upon recovering two years later, `______` forcing an angered Richard from the royal court and precipitating a series of battles later known as the War of Roses." The answer choice shouldn't begin with "the reign," "Henry's reign," or "it was Henry," and instead something like "Henry resumed his reign."
+- For boundaries questions, always skip to the sentence, read the first word and note if it is a conjunction, and read the phrases surrounding the blank.
 
 ### Studying
 - Since a lot of grammar rules textbooks or guides are likely to contain excess basic things I already understand, using a highly compact list of rules to know and keeping note of any questions I was hesitant about should ensure I get every grammar question correct
