@@ -1,6 +1,7 @@
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/graph.json
+.obsidian/plugins/remotely-save
 
 .trash/
 .obsidian-git-data
@@ -8,9 +9,6 @@
 .DS_Store
 Thumbs.db
 *.log
-
-
-
 
 # Ignore Smart Environment folder
 .smart-env
